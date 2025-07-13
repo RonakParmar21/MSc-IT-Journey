@@ -1,0 +1,1 @@
+# all practicals are here of this subject

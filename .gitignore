@@ -1,0 +1,7 @@
+*.class
+*.exe
+*.pyc
+.DS_Store
+node_modules/
+*.log
+*.env
